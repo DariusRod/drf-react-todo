@@ -1,1 +1,1 @@
-# drf-react-todo
+movie app with vanila JS
